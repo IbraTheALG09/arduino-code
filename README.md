@@ -1,6 +1,11 @@
 # arduino-code
 i need an arduino code
 im using an arduino mega with 6 dc motors, 3 drivers with a bluetooth module and im using this following code
+
+
+
+
+
 void setup()
 {
 Serial.begin(9600);
